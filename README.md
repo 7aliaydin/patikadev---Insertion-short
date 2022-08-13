@@ -24,7 +24,7 @@ Başlangıç
 Liste bu hale gelene kadar (n) + (n-1) + (n -2) + … + 1 olarak devam etti bunların toplamıda
 
 n(n - 1)
-———    =  (n^2) -n / 2 bu durumda Big-O gösterimi O(n^2) —> n kare olara ifade edilir.
+———    =  (n^2) -n / 2 bu durumda Big-O gösterimi O(n^2) —> n kare olarak ifade edilir.
      2
 
 3—>	Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
@@ -40,7 +40,8 @@ Başlangıç
 [2,3,5,8,7,9,4,15,6]
 —3. Sıradaki eleman için listenin kalanında en küçüğü arıyor bulduğunla 3.sıradakinin yerini değiştir.
 [2,3,4,8,7,9,5,15,6]
-—4. Sıradaki eleman için listenin kalanında en küçüğü arıyor bulduğunla 4.sıradakinin yerini değiştir.[2,3,4,5,7,9,8,15,6]
+—4. Sıradaki eleman için listenin kalanında en küçüğü arıyor bulduğunla 4.sıradakinin yerini değiştir.
+[2,3,4,5,7,9,8,15,6]
 
 
 
